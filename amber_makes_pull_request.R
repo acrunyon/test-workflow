@@ -3,6 +3,6 @@
 # Submit a pull request to me
 
 # Changes from 0323
-x<-rnorm(4,2,.5)
-y<-seq(.5,2,.5)
-plot(x,y,type="l")
+x<-rnorm(50,5,.5)
+y<-seq(1,50,1)
+plot(y,x,type="l")
