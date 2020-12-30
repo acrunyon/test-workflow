@@ -6,3 +6,5 @@
 x<-rnorm(50,5,.5)
 y<-seq(1,50,1)
 plot(y,x,type="l")
+
+#Amber test SSH 12/30/2020
